@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John Smith",
+        "age": 30,
+        "isMarried": true,
+        "hobbies": ["reading", "writing", "playing music"]
+    },
+    {
+        "name": "Jane Doe",
+        "age": 25,
+        "isMarried": false,
+        "hobbies": ["painting", "travelling"]
+    },
+    {
+        "name": "Bob Johnson",
+        "age": 45,
+        "isMarried": true,
+        "hobbies": ["fishing", "gardening"]
+    },
+    {
+        "name": "Samantha Lee",
+        "age": 27,
+        "isMarried": false,
+        "hobbies": ["photography", "hiking", "playing music"]
+    },
+    {
+        "name": "David Williams",
+        "age": 50,
+        "isMarried": false,
+        "hobbies": ["cooking", "watching movies"]
+    }
+]
